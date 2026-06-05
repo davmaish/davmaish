@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm David Maina 👋
 
-<!--
-**davmaish/davmaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am passionate about software engineering, web development, mobile applications, and data structures & algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Toolkit
+
+*   **Languages:** JavaScript (ES6+), PHP, HTML5, CSS3, SQL
+*   **Frameworks & Libraries:** React Native, Tailwind CSS, GSAP (GreenSock)
+*   **Developer Environment:** Git, GitHub, Linux, code-server
+
+## Featured Projects
+
+### MileWise
+Vehicle maintenance and expense tracking mobile application.
+
+### Elevator Scheduling System
+Simulation using Queue, Priority Queue, Stack, HashMap, and Graph data structures.
+
+### Data Structures & Algorithms in JavaScript
+Implementation of core DSA concepts with practical applications.
